@@ -9,3 +9,5 @@ I'm a programmer,I'm from Venezuela,I have a B1 level of English, I am proficien
 
 I love Queen, Michael Jackson, Cancerbero, Eazy-E, and Ice Cube. My favorite music is rock, but I also like old-school rap and pop. I love war stories and movies. My favorite TV series is Breaking Bad.
 I like mathematics, and implementing it in Python.
+---------------------------------------------
+I'm not the best, but I do not make the same mistake again; I try to improve.
