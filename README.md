@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm a programmer,I'm from Venezuela,I have a B1 level of English, I am proficient in Python, HTML, CSS and JavaScript, other technologies I know or am familiar with are Math, Pygame, Curses, Arcade, Turtle, RE, Svelte,Github,Zed,OpenIA a basic C sufficient to understand code written in it, and a basic level of x86 assembly as well
+I'm a programmer,I'm from Venezuela,I have a good level of English, I am proficient in Python, HTML, CSS and JavaScript, other technologies I know or am familiar with are Math, Pygame, Curses, Arcade, Turtle, RE, Svelte,Github,Zed,OpenIA a basic C sufficient to understand code written in it, and a basic level of x86 assembly as well
 
 
 ## 🪖 technologies that I master:
